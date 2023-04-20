@@ -3,7 +3,7 @@
 
 
 
-<img alt="CircuitDiagram" src="https://user-images.githubusercontent.com/57395643/233405040-8497591e-c2ac-4e97-b4e7-deb58398faf6.png"=250x250>
+<img alt="CircuitDiagram" src="https://user-images.githubusercontent.com/57395643/233405040-8497591e-c2ac-4e97-b4e7-deb58398faf6.png">
 
 *Circuit diagram of prototype*
 
