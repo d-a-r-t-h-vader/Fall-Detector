@@ -3,7 +3,7 @@
 
 
 
-<img width="727" alt="CircuitDiagram" src="https://user-images.githubusercontent.com/57395643/233405040-8497591e-c2ac-4e97-b4e7-deb58398faf6.png">
+<img alt="CircuitDiagram" src="https://user-images.githubusercontent.com/57395643/233405040-8497591e-c2ac-4e97-b4e7-deb58398faf6.png">
 
 *Circuit diagram of prototype*
 
@@ -15,11 +15,11 @@
 
 *Fast Walking*
 
-<img width="537" alt="Fast%20sitting" src="https://user-images.githubusercontent.com/57395643/233404984-80c00937-5d3e-4504-bfaf-9c6d6b97fc5c.png">
+<img alt="Fast%20sitting" src="https://user-images.githubusercontent.com/57395643/233404984-80c00937-5d3e-4504-bfaf-9c6d6b97fc5c.png">
 
 *Fast Sitting*
 
 
-<img width="651" alt="Falling" src="https://user-images.githubusercontent.com/57395643/233404971-ec7dc8d8-47f8-454a-8255-4fc7c5af3669.png">
+<img  alt="Falling" src="https://user-images.githubusercontent.com/57395643/233404971-ec7dc8d8-47f8-454a-8255-4fc7c5af3669.png">
 
 *Falling, 2 repetitions*
